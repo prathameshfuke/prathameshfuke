@@ -258,40 +258,6 @@ Active participant in technical discussions, collaborative projects, and AI/ML k
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prathameshfuke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1f6feb&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshfuke&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=1800" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshfuke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prathameshfuke&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1f6feb&point=58A6FF)
-
-</div>
-
----
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=prathameshfuke&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -303,7 +269,7 @@ Active participant in technical discussions, collaborative projects, and AI/ML k
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prathameshfuke&color=58A6FF&style=for-the-badge&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=prathameshfuke&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
