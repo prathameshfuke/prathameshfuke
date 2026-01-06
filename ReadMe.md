@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Computer+Vision+Specialist;Building+Intelligent+Healthcare+Systems;Top+1%25+Academic+Performer+%7C+CGPA+9.61;Smart+India+Hackathon+2025+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Computer+Vision+Specialist;Building+Intelligent+Healthcare+Systems;Top+1%25+Academic+Performer;Smart+India+Hackathon+2025+Winner)](https://git.io/typing-svg)
 
 </div>
 
 AI/ML Engineer specializing in **Deep Learning**, **Computer Vision**, and **NLP**. I build production-ready intelligent systems from research to deployment, with expertise in ensemble learning, transformer architectures, and real-time AI applications. Currently exploring vision transformers, multimodal AI, and agentic workflows.
 
-🎓 **Academic Excellence:** CGPA 9.61/10.0 (Top 1%) | 4th Semester: 10.00/10.00 (Perfect Score)  
+🎓 **Academic Excellence:** CGPA 9.49/10.0 (Top 1%) | 4th Semester: 10.00/10.00 (Perfect Score)  
 🏆 **Recognition:** Smart India Hackathon 2025 Winner (2nd among 120 teams)  
 💼 **Availability:** Open to ML/AI internships and collaborations in Pune, Maharashtra
 
@@ -176,7 +176,7 @@ Ensemble Learning • Transfer Learning • Hyperparameter Optimization • Mode
 Led Team Seris Tech to secure 2nd position among 120 competing teams with ML-based outbreak prediction system. Selected to represent college at national level competition. Demonstrated innovation in healthcare AI and IoT integration.
 
 ### 🎓 Academic Excellence
-• **CGPA: 9.61/10.00** (Top 1% of class across all semesters)  
+• **CGPA: 9.49/10.00** (Top 1% of class across all semesters)  
 • **4th Semester SGPA: 10.00/10.00** (Perfect Score - all courses)  
 • Consistent Dean's List performer throughout engineering program  
 • Higher Secondary: 80% in PCM-CS stream
