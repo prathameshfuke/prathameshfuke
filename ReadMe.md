@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+%7C+Computer+Vision+Specialist;Building+Intelligent+Healthcare+Systems;Top+1%25+Academic+Performer;Smart+India+Hackathon+2025+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Computer+Vision+Specialist;Building+Intelligent+Healthcare+Systems;Top+1%25+Academic+Performer;Smart+India+Hackathon+2025+Winner)](https://git.io/typing-svg)
 
 </div>
 
@@ -262,11 +262,11 @@ Active participant in technical discussions, collaborative projects, and AI/ML k
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshfuke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1f6feb&text_color=C9D1D9&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=prathameshfuke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1f6feb&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshfuke&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshfuke&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=1800" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshfuke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshfuke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
