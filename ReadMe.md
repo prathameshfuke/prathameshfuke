@@ -1,176 +1,148 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,50:0d1117,100:161b22&height=220&section=header&text=Prathamesh%20Fuke&fontSize=56&fontColor=58a6ff&fontAlignY=55&desc=Building%20systems%20that%20think%2C%20reason%2C%20and%20trade&descSize=16&descAlignY=78&descColor=8b949e&animation=twinkling&rotate=-6&fontAlign=35" width="100%"/>
+<h1>Prathamesh Fuke</h1>
+<h3>AI Engineer · LLM Researcher · Quant Finance · Builder</h3>
 
-</div>
+<p>
+<a href="https://linkedin.com/in/prathamesh-fuke-094642282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:prathameshfuke@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/shuracodes"><img src="https://img.shields.io/badge/Codeforces_Expert_1800%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://agewell-pi.vercel.app"><img src="https://img.shields.io/badge/AgeWell_Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://scoresight.streamlit.app"><img src="https://img.shields.io/badge/ScoreSight_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+</p>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│  ~/prathamesh  ❯  whoami                                                        │
-│                                                                                 │
-│  AI Engineer · LLM Researcher · Competitive Programmer · Quant Finance Nerd    │
-│  Datasmith AI (GenAI Intern) · Founder @ Seris Tech                            │
-│  CGPA 9.45 · Rank 1 · MMCOE, Pune · ICPC Global Rank 506                       │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=30&lines=Hybrid+RAG+pipelines+that+cut+tender+review+from+hours+→+3+minutes;Execution-aware+loss+functions+for+live+LOB+trading+(%2B1.8%25+PnL);LLM+fine-tuning+%26+quantization+for+zero-cost+CPU+inference;SIH+2025+Winner+·+ICPC+Global+Rank+506+·+Codeforces+Expert)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/—LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-fuke-094642282)&nbsp;
-[![Email](https://img.shields.io/badge/—Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prathameshfuke@icloud.com)&nbsp;
-[![Codeforces](https://img.shields.io/badge/—CF_Expert_1600%2B-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shuracodes)&nbsp;
-[![AgeWell](https://img.shields.io/badge/—AgeWell_Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://agewell-pi.vercel.app)&nbsp;
-[![ScoreSight](https://img.shields.io/badge/—ScoreSight_Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://scoresight.streamlit.app)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=GenAI+Intern+%40+Datasmith+AI+%7C+Founder+%40+Seris+Tech;Hybrid+RAG+pipelines+%7C+LLM+fine-tuning+%26+quantization;Execution-aware+ML+for+Limit+Order+Book+prediction;CGPA+9.45+%7C+Rank+1+%7C+ICPC+Global+Rank+506+%7C+SIH+2025+Winner;Open+to+AI%2FML+Research+Internships+%E2%80%94+Pune+%2F+Remote" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## `$ cat about.py`
+## 🧑‍💻 About Me
 
 ```python
-class Prathamesh:
-    role        = "GenAI Intern @ Datasmith AI  |  Founder @ Seris Tech"
-    university  = "MMCOE · Savitribai Phule Pune University"
-    degree      = "B.E. ETC (Hons. Data Science)"
-    cgpa        = 9.45  # Top 0.1% · Rank 1 two consecutive years
-
-    currently   = [
-        "Hybrid RAG pipelines (BM25 + FAISS) for tender automation",
-        "LLM fine-tuning & GGUF quantization for CPU-only inference",
-        "Execution-aware loss functions for limit order book prediction",
-    ]
-
-    deep_interests = {
-        "Quant Finance"   : "LOB modelling, execution-aware ML, microstructure",
-        "Game Theory"     : "Nash equilibria, social choice, fair division algos",
-        "LLM Research"    : "Reasoning, hallucination, RLHF, alignment",
-        "Comp Prog"       : "Codeforces Expert · ICPC Global Rank 506 (2026)",
-    }
-
-    open_to     = "AI/ML Research Internships · Pune / Remote"
-    contact     = "prathameshfuke@icloud.com  ·  +91-7249371213"
+prathamesh = {
+    "role"        : "GenAI Intern @ Datasmith AI  |  Founder @ Seris Tech",
+    "education"   : "B.E. Electronics & Telecomm. (Hons. Data Science) — CGPA 9.45 / 10.0 · Top 0.1%",
+    "university"  : "MMCOE, Savitribai Phule Pune University",
+    "cgpa_trail"  : {"Sem1": 9.59, "Sem2": 9.50, "Sem3": 8.86, "Sem4": 10.00, "Sem5": 9.29},
+    "rank"        : "Rank 1 — Two Consecutive Academic Years · Top 3 All Semesters",
+    "focus"       : ["Hybrid RAG pipelines", "LLM fine-tuning & quantization",
+                     "Agentic AI systems", "Execution-aware ML for quant finance"],
+    "interests"   : ["Quantitative Finance & Market Microstructure",
+                     "Game Theory & Computational Social Choice",
+                     "LLM Research — Reasoning, Hallucination, RLHF",
+                     "Behavioural AI & Preference Learning"],
+    "cp"          : "Codeforces Expert 1800+ ·,
+    "open_to"     : "AI/ML Research Internships — Pune / Remote",
+    "contact"     : "prathameshfuke@icloud.com · +91-7249371213"
+}
 ```
 
 ---
 
-## `$ ls -la ./experience/`
+## 🎓 Education
 
-<table>
-<tr>
-<td valign="top" width="50%">
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.E. Electronics & Telecomm. **(Hons. Data Science)** | MMCOE, Savitribai Phule Pune University | **9.45 / 10.0 · Top 0.1%** | 2023–2027 |
+| Higher Secondary (XII) | Abasaheb Garware College, Pune | 80% | 2023 |
+| Secondary (X) | Bharatiya Vidya Bhavan's | 92% | 2021 |
 
-**`▶ ACTIVE`**
-
-### ⚙ Generative AI Intern · Datasmith AI
-`Feb 2026 – Present` · Hybrid, Pune
-
-Production hybrid RAG: **BM25 + FAISS** via LangChain → tender review time: hours **→ 3 min**
-
-Fine-tuned + quantized **LLaMA / Mistral** (GGUF/GGML) — zero-cost CPU inference, no GPU
-
-Multi-turn agentic workflows: **LangGraph** tool-calling agents + long-term memory + **RAGAS** evals
+**Semester CGPA:** `Sem I: 9.59` · `Sem II: 9.50` · `Sem III: 8.86` · `Sem IV: 10.00` · `Sem V: 9.29`
 
 ---
 
-### 🚀 Founder · Seris Tech
-`Aug 2025 – Present` · Pune
+## 💼 Work Experience
 
-Building **HealthSentinel** (outbreak detection) + **AgeWell** (eldercare platform)
-
-Stacking ensemble with Optuna TPE → **94% F1** on imbalanced medical data
-
-OCR + NER pipeline (EasyOCR + spaCy) → **95% precision** via async FastAPI
-
-End-to-end MLOps: MLflow · drift detection · auto-retraining
-
-</td>
-<td valign="top" width="50%">
-
-**`▶ COMPLETED`**
-
-### 🔬 AI/ML Research Intern · Infosys Springboard
-`Oct – Dec 2025` · Remote
-
-Ensemble stacking (LightGBM meta-learner) → **97.2% accuracy** on clinical imbalanced data
-
-**SHAP** explainability · Scikit-learn Pipelines → 70% preprocessing code reduction
+### ⚙️ Generative AI Intern — Datasmith AI `Feb 2026 – Present · Hybrid, Pune`
+- Architected a production-grade **hybrid RAG pipeline** (BM25 sparse + FAISS dense via LangChain) for automated extraction from complex government tender documents — review time: **hours → under 3 minutes**
+- Fine-tuned and quantized open-source LLMs (**LLaMA, Mistral**) using **GGUF/GGML** formats, enabling zero-cost CPU inference with no GPU infrastructure
+- Designed **multi-turn agentic workflows** using LangGraph — tool-calling agents, long-term memory persistence, structured JSON output; evaluated end-to-end with **RAGAS** metrics
 
 ---
 
-### 🤝 Agentic AI Intern · Multiverz
-`Nov – Dec 2025` · Remote
-
-Architected **AgentBoard**: 4-agent enterprise advisory system for a Sri Lankan listed company
-
-Agents: Growth · Strategy · ESG · M&A — powered by **LangGraph + CrewAI**
-
-Hybrid RAG: vector DB + knowledge graph → board-ready insights in **< 30 min**
+### 🚀 Founder & AI/ML Engineer — Seris Tech `Aug 2025 – Present · Pune`
+- Founded an AI healthcare startup building **HealthSentinel** (outbreak detection) and **AgeWell** (eldercare platform) targeting underserved healthcare access gaps
+- Engineered stacking ensemble classifier with **Optuna TPE** → **94% F1-score** on imbalanced medical datasets
+- Built custom **OCR + NER pipeline** (EasyOCR + spaCy EntityRuler) at **95% precision** via async FastAPI endpoints
+- End-to-end **MLOps**: MLflow experiment tracking · automated model versioning · data drift detection · retraining triggers
 
 ---
 
-### 📡 Developer Advocate · Kombai
-`Jan – Feb 2026` · Remote
-
-Adversarial prompt suites to stress-test AI → frontend code gen agent; failure taxonomy reports
-
-</td>
-</tr>
-</table>
-
-> 🔭 **Bonus origin story:** Research Intern @ **IUCAA Pune** (May 2019) — planetary motion modelling & IoT instrumentation
+### 🔬 AI/ML Research Intern & Team Lead — Infosys Springboard `Oct 2025 – Dec 2025 · Remote` · [📜 10 Certifications](https://drive.google.com/drive/folders/1m69-YSqE7vyTFA5rc79EsYIw5WBF8sUU?usp=sharing)
+- Led applied ML research on clinical data classification — ensemble stacking (LightGBM meta-learner) → **97.2% accuracy** on highly imbalanced dataset
+- Applied **SHAP** for post-hoc model interpretability; identified and communicated top contributing features in reproducible format
+- Designed reusable **Scikit-learn Pipelines** with ColumnTransformer + custom transformers → preprocessing code cut by **70%**
 
 ---
 
-## `$ find ./projects -name "*.md" | sort -k score`
+### 🤖 Agentic AI Intern — Multiverz `Nov 2025 – Dec 2025 · Remote`
+- Designed **AgentBoard**: 4-agent enterprise AI advisory platform for board-level strategic decision-making at a Sri Lankan listed company
+- Agents: Growth & Market Entry · Business Strategy & Ops · ESG & Compliance · Competitive Intelligence & M&A
+- Orchestrated via **LangGraph + CrewAI**; hybrid RAG: vector DB (semantic search) + knowledge graph (relational reasoning) → board-ready insights in **< 30 minutes**
+
+---
+
+### 🧪 Developer Advocate (Research & Evaluation) — Kombai `Jan 2026 – Feb 2026 · Remote`
+- Systematically evaluated Kombai's **AI-to-frontend code generation agent** for hallucinations, layout inconsistencies, and semantic drift across component types (forms, navigation, data tables)
+- Designed **adversarial prompt suites** to stress-test agent robustness; identified failure modes in responsive layout generation and CSS misattribution under ambiguous Figma specs
+- Produced structured evaluation reports mapping error patterns to root causes in the generation pipeline
+
+---
+
+### 🔭 Research Intern — IUCAA Pune `May 2019 · Pune`
+- Contributed to planetary motion modelling research (Mars Retrograde Motion & effects on other space objects)
+- Developed IoT-based instrumentation solutions; collaborated with senior researchers on computational data analysis
+
+---
+
+## 🧪 Projects
 
 <details open>
-<summary>&nbsp;<b>📈 L_EXEC — Execution-Aware Loss for LOB Prediction</b>&nbsp;&nbsp;<code>2026</code>&nbsp;&nbsp;<a href="https://github.com/prathameshfuke/quantres">[ repo ]</a></summary>
+<summary><b>📈 L_EXEC — Execution-Aware Loss for Limit Order Book Prediction</b> &nbsp; <code>2026</code> &nbsp; <a href="https://github.com/prathameshfuke/quantres">[ GitHub ]</a></summary>
 <br/>
 
-> Standard cross-entropy treats all mispredictions equally. **L_EXEC doesn't.** It penalizes by spread, queue depth, and fill probability — the costs that actually matter in live trading.
+> **The problem:** Standard cross-entropy treats all mispredictions equally. In live trading, predicting the wrong direction costs far more than predicting stationary. **L_EXEC penalizes by spread, queue depth, and fill probability — the costs that actually matter.**
 
-| Metric | DeepLOB + CE | DeepLOB + L_EXEC | Δ |
-|---|---|---|---|
-| PnL | baseline | +1.8% | ✅ |
-| Sharpe | baseline | +0.5 | ✅ |
-| Significance | — | p < 0.001 | DM-test |
+- Custom PyTorch loss function trained on **FI-2010** benchmark using **DeepLOB** backbone
+- Validated via **Diebold-Mariano** statistical tests across high, normal, and low volatility regimes
+- Full ablation study: cost matrix · exec probability MLP · latency discount components
 
-Validated across high / normal / low volatility regimes on **FI-2010** benchmark.
+| Metric | Baseline | **L_EXEC** |
+|---|---|---|
+| PnL | baseline | **+1.8%** |
+| Sharpe Ratio | baseline | **+0.5** |
+| Significance | — | **p < 0.001** |
 
-`PyTorch` `DeepLOB` `FI-2010` `NumPy` `Diebold-Mariano` `Statistical Validation`
+`PyTorch` `DeepLOB` `FI-2010` `NumPy` `Diebold-Mariano`
 
 </details>
 
 ---
 
 <details open>
-<summary>&nbsp;<b>📄 TenderExtractPro — Hybrid RAG for Gov Tender Documents</b>&nbsp;&nbsp;<code>Feb 2026</code>&nbsp;&nbsp;<a href="https://github.com/prathameshfuke/TenderExtractPro">[ repo ]</a></summary>
+<summary><b>📄 TenderExtractPro — Hybrid RAG for Government Tender Documents</b> &nbsp; <code>Feb 2026</code> &nbsp; <a href="https://github.com/prathameshfuke/TenderExtractPro">[ GitHub ]</a></summary>
 <br/>
 
-BM25 sparse + FAISS dense + dedicated table extraction pipeline — **85–90% accuracy** on complex multi-section government tenders
+- **Hybrid RAG**: BM25 sparse + FAISS dense embeddings + dedicated table extraction pipeline
+- **85–90% accuracy** on complex multi-section government tender documents
+- GGUF-quantized LLaMA for **zero-cost CPU-only inference**; FastAPI returns structured JSON with source-level citations
+- Procurement review: hours → **under 3 minutes**
 
-GGUF-quantized LLaMA for **zero-infra CPU inference** · FastAPI returns structured JSON with source citations
-
-`LangChain` `BM25` `FAISS` `LLaMA GGUF` `FastAPI` `RAGAS`
+`LangChain` `BM25` `FAISS` `LLaMA` `GGUF` `FastAPI` `RAGAS`
 
 </details>
 
 ---
 
 <details>
-<summary>&nbsp;<b>🏥 HealthSentinel — Medical NER & Outbreak Detection</b>&nbsp;&nbsp;<code>🏆 SIH 2025 Winner (2nd / 120 teams)</code>&nbsp;&nbsp;<a href="https://github.com/prathameshfuke/healthsentinel">[ repo ]</a>&nbsp;&nbsp;<a href="https://youtu.be/JUrta4EyUmA?si=5bWr8HkIWvMWgb4-">[ demo ]</a></summary>
+<summary><b>🏥 HealthSentinel — Medical NER & Outbreak Detection &nbsp; 🏆 SIH 2025 Winner</b> &nbsp; <a href="https://github.com/prathameshfuke/healthsentinel">[ GitHub ]</a> &nbsp; <a href="https://youtu.be/JUrta4EyUmA?si=5bWr8HkIWvMWgb4-">[ Demo ]</a></summary>
 <br/>
 
-Fine-tuned `bert-base-uncased` + **LoRA/PEFT** for medical NER (diagnoses · medications · symptoms) from unstructured clinical notes
-
-Firebase Cloud Functions + Firestore real-time DB · React Native + Redux Toolkit mobile app
-
-**National Finals · Smart India Hackathon 2025 · Govt. of India**
+- **Smart India Hackathon 2025 — 2nd / 120 teams · National Finals · Govt. of India**
+- Fine-tuned `bert-base-uncased` with **LoRA/PEFT** for medical NER: diagnoses, medications, symptoms from unstructured clinical notes
+- Deployed via **Firebase Cloud Functions + Firestore** · React Native + TypeScript + Redux Toolkit mobile app
 
 `BERT` `LoRA/PEFT` `HuggingFace` `Firebase` `React Native` `PostgreSQL`
 
@@ -179,14 +151,12 @@ Firebase Cloud Functions + Firestore real-time DB · React Native + Redux Toolki
 ---
 
 <details>
-<summary>&nbsp;<b>👴 AgeWell — AI-Powered Eldercare Platform</b>&nbsp;&nbsp;<a href="https://github.com/prathameshfuke/agewell">[ repo ]</a>&nbsp;&nbsp;<a href="https://agewell-pi.vercel.app/">[ live ]</a></summary>
+<summary><b>👴 AgeWell — AI-Powered Elderly Health Monitoring Platform</b> &nbsp; <a href="https://github.com/prathameshfuke/agewell">[ GitHub ]</a> &nbsp; <a href="https://agewell-pi.vercel.app/">[ Live ]</a></summary>
 <br/>
 
-Real-time vitals monitoring (SpO₂, HR, temp, BP) via ESP32 · **Kalman filter** sensor fusion → 40% noise reduction
-
-Prescription OCR → automated medication management · AI anomaly detection → WhatsApp + push alerts
-
-Dual UX: elderly-friendly large-text UI + detailed caregiver dashboard
+- Real-time vitals: SpO₂, heart rate, temperature, BP via **ESP32 + FreeRTOS + MQTT**
+- **Kalman filter** sensor fusion → **40% noise reduction** · Prescription OCR for automated medication management
+- AI anomaly detection → **WhatsApp + push alerts** · Dual UI: elderly-friendly + caregiver dashboard
 
 `TensorFlow` `OpenCV` `FastAPI` `Flutter` `ESP32` `FreeRTOS` `MQTT`
 
@@ -195,95 +165,134 @@ Dual UX: elderly-friendly large-text UI + detailed caregiver dashboard
 ---
 
 <details>
-<summary>&nbsp;<b>⚽ ScoreSight — EPL Match & Season Prediction</b>&nbsp;&nbsp;<a href="https://github.com/prathameshfuke/scoresight">[ repo ]</a>&nbsp;&nbsp;<a href="https://scoresight.streamlit.app/">[ live ]</a></summary>
+<summary><b>⚽ ScoreSight — EPL Match & Season Outcome Prediction</b> &nbsp; <a href="https://github.com/prathameshfuke/scoresight">[ GitHub ]</a> &nbsp; <a href="https://scoresight.streamlit.app/">[ Live App ]</a></summary>
 <br/>
 
-54 leakage-safe features · temporal train/test splits · **97.2% accuracy** (league winner) · **R² = 0.977** (score regression)
+- 54 leakage-safe features · careful temporal splits · **97.2% accuracy** (league winner) · **R² = 0.977** (score regression)
+- Interactive **Streamlit** deployment
 
-Interactive Streamlit deployment · `LightGBM` `XGBoost` `Scikit-learn` `Pandas`
+`LightGBM` `XGBoost` `Scikit-learn` `Pandas` `Streamlit`
 
 </details>
 
 ---
 
-## `$ cat ./skills/stack.json`
+<details>
+<summary><b>📊 PrimeTrade — Crypto Behavioural Finance Analysis</b> &nbsp; <a href="https://github.com/prathameshfuke/primetrade">[ GitHub ]</a></summary>
+<br/>
+
+- NLP sentiment analysis correlating **Bitcoin Fear/Greed Index** with trader performance across 10K+ records
+- Statistical patterns for **momentum and contrarian** algorithmic trading strategies
+
+`Python` `NLP` `Pandas` `Statistical Analysis` `Financial Modeling`
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Core**
+**Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,sql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,sql&theme=dark&perline=10)](https://skillicons.dev)
 
-**AI / ML / GenAI**
+**ML / AI / GenAI**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10)](https://skillicons.dev)
 
 **Infrastructure & Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,gcp,firebase,postgresql,mongodb,redis&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=fastapi,docker,gcp,firebase,postgres,mongodb,redis,linux&theme=dark&perline=10)](https://skillicons.dev)
 
-**Tools**
+**Dev Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,flutter&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
-**Specialist stack not in icons:**
-`LangChain` · `LangGraph` · `CrewAI` · `FAISS` · `BM25` · `LLaMA` · `Mistral` · `GGUF Quantization` · `LoRA/PEFT` · `RAGAS` · `SHAP` · `Optuna` · `MLflow` · `HuggingFace` · `YOLOv5` · `spaCy` · `EasyOCR`
+**Specialist libraries:** `LangChain` · `LangGraph` · `CrewAI` · `FAISS` · `BM25` · `LLaMA` · `Mistral` · `GGUF/GGML` · `LoRA/PEFT` · `HuggingFace` · `RAGAS` · `SHAP` · `Optuna` · `MLflow` · `YOLOv5` · `spaCy` · `EasyOCR` · `XGBoost` · `LightGBM`
 
 ---
 
-## `$ cat ./achievements.log`
+## 🏆 Achievements & Certifications
 
-```
-[2026-01] ICPC Global Rank 506       Huawei Sponsored · Codeforces Expert 1800+ (shuracodes)
-[2025-12] SIH 2025 — 2nd / 120      National Finals · Govt. of India · BERT + LoRA Medical NER
-[2025-10] Oracle Cloud AI Assoc.     1Z0-1122-25 · Credential: 102972266OCI25AICFA
-[2025-00] Google Cloud — 47 Badges   Vertex AI MLOps · Responsible AI · BigQuery ML · Kubernetes
-[2025-00] Infosys — 10 Certs         Deep Learning · NLP · CV · GenAI · RPA · Agile
-[2023-25] Academic Rank #1           Two consecutive years · MMCOE · Top 3 all semesters (CGPA 9.45)
-```
+| 🏅 | Achievement | Details | Year |
+|---|---|---|---|
+| 🌍 | **ICPC Global Rank 506** | Huawei Sponsored · Codeforces Expert 1800+ ([shuracodes](https://codeforces.com/profile/shuracodes)) | 2026 |
+| 🥈 | **SIH 2025 — 2nd / 120 Teams** | National Finals · Govt. of India · BERT + LoRA Medical NER | 2025 |
+| 🎓 | **Academic Rank 1** | Two consecutive academic years · MMCOE · Top 3 all semesters (CGPA 9.45) | 2023–25 |
+| ☁️ | **Oracle Cloud AI Foundations** | 1Z0-1122-25 · Credential: 102972266OCI25AICFA | Oct 2025 |
+| ☁️ | **Google Cloud — 47 Badges** | [Vertex AI MLOps · Responsible AI · BigQuery ML · Kubernetes · Data Eng · Security](https://www.skills.google/public_profiles/51593f1b-e3d7-4e4d-bdea-9322678914bd) | 2025 |
+| 📜 | **Infosys Springboard — 10 Certs** | [Deep Learning · NLP · Computer Vision · GenAI · RPA · Agile Scrum](https://drive.google.com/drive/folders/1m69-YSqE7vyTFA5rc79EsYIw5WBF8sUU?usp=sharing) | 2025 |
+| 📜 | **Other Certifications** | Advanced Python (Udemy) · Networking Basics (Cisco) · Advanced C++ (IIT Bombay) | 2024 |
 
 ---
 
-## `$ cat ./oss/contributions.md`
+## 🌱 Open Source Contributions
 
-| Project | Role |
+| Project | Contribution |
 |---|---|
 | **[DIPY](https://github.com/dipy/dipy)** — Diffusion MRI in Python | Tractography workflows & scientific computing utilities |
 | **[FURY-GL](https://github.com/fury-gl/fury)** — Scientific 3D Visualization | OpenGL-based rendering components & visualization pipelines |
 
 ---
 
-## `$ tail -f ./stats/live.log`
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prathameshfuke&theme=onestar&no-frame=true&no-bg=true&margin-w=8&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prathameshfuke&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prathameshfuke&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshfuke&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=prathameshfuke&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=1f6feb&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prathameshfuke&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prathameshfuke&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prathameshfuke&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=prathameshfuke&color=1f6feb&style=flat-square&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=prathameshfuke&color=1f6feb&style=flat-square&label=Profile+Views"/>
 
 </div>
 
 ---
 
+## 🔭 Research Interests
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  📈  Quantitative Finance      Execution-aware ML · LOB modelling            │
+│                                · market microstructure dynamics              │
+│                                                                              │
+│  🎮  Game Theory & Soc. Choice Nash equilibria · fair division algorithms    │
+│                                · algorithmic decision-making (multi-agent)   │
+│                                                                              │
+│  🧠  LLM Research              Reasoning · hallucination · RLHF · alignment  │
+│                                                                              │
+│  👥  Behavioural AI            Preference learning · human-AI dynamics       │
+│                                                                              │
+│  🔢  Competitive Programming   Codeforces Expert · 1800+ rating              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
 
-```
-Open to AI/ML Research Internships  ·  Pune, Maharashtra  ·  Remote-friendly
-prathameshfuke@icloud.com  ·  +91-7249371213
-```
+**Open to AI/ML Research Internships · Pune, Maharashtra · Remote-friendly**
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:161b22,100:0d1117&height=80&section=footer&reversal=true&rotate=4" width="100%"/>
+`prathameshfuke@icloud.com` · `+91-7249371213`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
