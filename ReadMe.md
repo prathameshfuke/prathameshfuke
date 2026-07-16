@@ -13,7 +13,7 @@
 <a href="https://prathameshfukeresume.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Founder+%40+Nelviq+%7C+GenAI+Intern+%40+Datasmith+AI;Agentic+AI+for+high-stakes+moments+%E2%80%94+where+errors+cost+lives;AgeWell+%7C+SAHA+%7C+Hybrid+RAG+%7C+LangGraph+in+production;CGPA+9.45+%7C+Rank+1+%7C+ICPC+Global+Rank+506;Anthropic+MCP+Certified+%7C+Open+to+AI%2FML+Research+Internships" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Founder+%40+Nelviq+%7C+GenAI+Intern+%40+Datasmith+AI;Agentic+AI+for+high-stakes+moments+%E2%80%94+where+errors+cost+lives;AgeWell+%7C+SAHA+%7C+Hybrid+RAG+%7C+LangGraph+in+production;CGPA+9.45+%7C+Rank+1+%7C+Amazon+MLSS+2026+Scholar;Anthropic+MCP+Certified+%7C+Open+to+AI%2FML+Research+Internships" alt="Typing SVG"/>
 
 </div>
 
@@ -39,7 +39,8 @@ prathamesh = {
                      "Game Theory & Computational Social Choice",
                      "LLM Research — Reasoning, Hallucination, RLHF",
                      "Behavioural AI & Preference Learning"],
-    "cp"          : "Codeforces Expert 1600+  |  ICPC 2026 Global Rank 506",
+    "cp"          : "Codeforces Expert 1600+ (@shuracodes)",
+    "scholar"     : "Amazon ML Summer School 2026 — selected from 1.34L+ applicants",
     "certified"   : ["Anthropic AI Fluency", "Anthropic MCP (Model Context Protocol)",
                      "Oracle Cloud AI Foundations", "Google Cloud 47 Badges"],
     "open_to"     : "AI/ML Research Internships — Pune / Remote",
@@ -236,10 +237,10 @@ An agentic AI assistant built around **accountability, clarity, and action** for
 | | Achievement | Details | Year |
 |---|---|---|---|
 | 🎯 | **Judges' Choice Award — HackSprint v7.0** | GyanBit · Toycathon 2026 · Internship offer from Zensar Technologies | 2026 |
-| 🌍 | **ICPC Global Rank 506** | Huawei Sponsored · Codeforces Expert 1600+ ([shuracodes](https://codeforces.com/profile/shuracodes)) | 2026 |
+| 🚀 | **Amazon ML Summer School 2026** | Selected from 1.34L+ applicants | 2026 |
+| 🔢 | **Codeforces Expert** | 1600+ rating · [shuracodes](https://codeforces.com/profile/shuracodes) | 2026 |
 | 🥈 | **SIH 2025 — 2nd / 120 Teams** | Internal Round · BERT + LoRA Medical NER | 2025 |
 | 🎓 | **Academic Rank 1** | Two consecutive academic years · MMCOE · Top 3 all semesters | 2023–25 |
-| 🤖 | **Google Student Ambassador 2026** | Selected · Ping Digital / Google Gemini AI Trials | 2026 |
 | 🔐 | **Anthropic AI Fluency** | Certified · Anthropic | 2025 |
 | 🔐 | **Anthropic MCP Certified** | Model Context Protocol · Anthropic | 2025 |
 | ☁️ | **Oracle Cloud AI Foundations** | 1Z0-1122-25 · Credential: 102972266OCI25AICFA | Oct 2025 |
